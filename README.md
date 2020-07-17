@@ -1,22 +1,24 @@
-# rak-lechitsa
+# Проект Рак лечится
 
-> project for rak lechitsa
+## Описание
+В данном репозитории находится проект "Рак лечится". проект направлен на обучение следующим технологиям:
+- Vue.js
+- Nuxt.js
+- Vuex
+- JavaScript
+- HTML
+- CSS
 
-## Build Setup
+## Основной функционал
+- Многостраничное приложение
+- Добавление собственной истории
+- Пагинация
+- Слайдер
+- Многостраничное модальное окно
+- Адаптивность
 
-```bash
-# install dependencies
-$ npm install
+## Инструкция
+- Склонировать репозиторий
+- Установить зависимости - `npm install`
+- Запустить в режиме разработки на localhost:3000- `npm run dev`
 
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
